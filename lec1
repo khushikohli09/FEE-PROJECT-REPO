@@ -1,0 +1,13 @@
+ls -> lists all files and directories
+pwd -> present working directory
+cd [directory]-> changes the current  directory
+  cd .. -> changes directory to previous directory
+  cd ~ -> Goes to the home directory
+  cd -> changes directory to root
+mkdir [directory]-> creates a new directory
+rmdir [directory] -> removes an empty directory
+rm [file] -> Removes a file
+  rm -r [directory] -> Deletes a directory and its contents.
+touch [file] -> Creates a new file
+cp [source] [destination] ->Copies files or directories
+mv [source] [destination] ->Moves or renames files/directories
