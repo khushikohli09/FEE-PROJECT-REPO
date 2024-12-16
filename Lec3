@@ -1,0 +1,12 @@
+cat>cu.txt // Make the file and write into the file;
+touch cu.txt // Make the file;
+cat<cu.txt // used for display the contents that are override;
+cat Source >> Destination // this ">>" is used to append the data of source file to  destination file;
+cat -b cu.txt // not display the next line;
+cat -n cu.txt // display the next line;
+tac cu.txt // reverse the line order;
+rev cu.txt // reverse the words of line;
+head cu.txt // display first 10 lines;
+tail cu.txt // display the end 10 lines;
+more cu.txt // move through forward only;
+less cu.txt // move through backward and forward;
