@@ -1,0 +1,5 @@
+chmod-> Modify the permissions (read ,write ,execute);
+chmod u+x=> (user ko execute ki permission), g+w(groups ko write),o+r(others ko read) f1.txt-> gives the command and execution changes;
+second Method for giving permission
+1. Execute ,2. Read ,3. Execute And Write ,4. Read ,5. Read And Execute ,6. Read and Write ,7. All operation;
+vim f2.txt => editor opened
